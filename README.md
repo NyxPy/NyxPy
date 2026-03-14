@@ -106,7 +106,7 @@ Helping businesses turn fragile spreadsheets into reliable, structured reporting
 
 ---
 
-## 🌌 Philosophy
+🌌 Philosophy
 
 Good systems don’t begin perfect.  
 They become coherent through patience, iteration, and a stubborn refusal to let chaos win.
